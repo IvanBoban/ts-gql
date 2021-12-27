@@ -1,2 +1,2 @@
 # ts-gql
-GQL-server with typescript
+GQL server with typescript
